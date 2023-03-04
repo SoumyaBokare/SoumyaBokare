@@ -10,7 +10,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SoumyaBokare&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaBokare&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="center"src="https://tenor.com/view/coding-gif-18657810" width="500" height="320"/></p>
+<p><img align="center"src="<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/QNFhOolVeCzPQ2Mx85" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/checkmatedigital-code-coding-monkey-QNFhOolVeCzPQ2Mx85">via GIPHY</a></p>" width="500" height="320"/></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)

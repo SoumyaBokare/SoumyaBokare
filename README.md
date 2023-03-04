@@ -1,4 +1,4 @@
-
+<p><img align="center"src="https://github.com/SoumyaBokare/SoumyaBokare/blob/main/coding.gif" width="500" height="320"/></p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eskimo_bokare) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/eskimo_tempo) 

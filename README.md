@@ -1,4 +1,6 @@
 
+![programmer](https://github.com/SoumyaBokare/SoumyaBokare/assets/115855925/8ad92437-eed6-42b5-a527-c96862769ba7)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eskimo_bokare) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Soumya-Bokare) 
 
